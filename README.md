@@ -90,7 +90,6 @@ Everything below was built on top of the static starter code, one feature branch
 ```bash
 git clone https://github.com/LavelleAli/NFT-Store.git
 cd NFT-Store
-cd Lavelle-Internship
 npm install
 npm start
 ```

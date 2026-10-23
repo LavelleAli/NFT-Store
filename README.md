@@ -88,7 +88,8 @@ Everything below was built on top of the static starter code, one feature branch
 ### Install and run
 
 ```bash
-git clone https://github.com/LavelleAli/Lavelle-Internship.git
+git clone https://github.com/LavelleAli/NFT-Store.git
+cd NFT-Store
 cd Lavelle-Internship
 npm install
 npm start

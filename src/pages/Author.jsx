@@ -105,9 +105,6 @@ const Author = () => {
   }
 
 
-  
-
-
   return (
     <div id="wrapper">
       <div className="no-bottom no-top" id="content">
